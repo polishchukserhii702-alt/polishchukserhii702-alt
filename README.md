@@ -37,58 +37,5 @@ Motivated and detail-oriented developer with 8+ years of production experience �
 
 <div align="center">
   <a href="https://my-a-portfolio-about-me.netlify.app">Portfolio</a> 
-  # 👋 Hi, I'm Ethan Potter
-
-🚀 AI Engineer & Full Stack Developer
-
----
-
-## 🧠 About Me
-
-* 💡 Passionate about Artificial Intelligence and modern web development
-* 🧑‍💻 Building intelligent, scalable applications
-* 🌱 Continuously learning and exploring new technologies
-
----
-
-## ⚡ Tech Stack
-
-### 🤖 AI / ML
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-
-### 🌐 Full Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
-
----
-
-## 🔥 Featured Projects
-
-* 🤖 AI Chatbot
-* 📈 Predictive Analytics Dashboard
-* 🌍 Full Stack Web Applications
-
----
-
-⭐️ From Ethan Potter
 
 </div>
