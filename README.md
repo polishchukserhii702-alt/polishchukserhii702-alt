@@ -36,5 +36,5 @@ Motivated and detail-oriented developer with 8+ years of production experience â
 </div>
 
 <div align="center">
-  <a href="https://my-a-portfolio-about-me.netlify.app">Portfolio</a> 
+  <a href="https://my-a-portfolio-about-me.netlify.app">PORTFOLIO</a> 
 </div>
